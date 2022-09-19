@@ -1,0 +1,12 @@
+*.ilg
+*.gz
+*.xdv
+*.aux
+*.flx
+*.fdb_latexmk
+*.out
+*.pdf
+*.log
+*.fls
+*.toc
+*DS_Store*
