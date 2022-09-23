@@ -52,6 +52,7 @@ toc = false
             first_sentence = first_sentence.replace("\n", " ")
             frontmatter = frontmatter.format(description = first_sentence)
             this_file.write(frontmatter)
+            frontmatter_written = True
         this_file.write("\n" + t.text)
     i += 1
 this_file.close()
