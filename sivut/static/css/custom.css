@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Figtree Regular";
+    src: url("/font/Figtree-Regular.woff2");
+  }
+
+body {
+    font-family: "Figtree Regular";
+}
+
+.caption {
+    font-size: 0.5em;
+    color: gray;
+    text-align: center;
+}
+
+.cover-image {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.previous-post {
+    float: right;
+    margin-bottom: 3em;
+}
+.next-post {
+    float: left;
+}
