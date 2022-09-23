@@ -9,32 +9,14 @@ toc = false
 
 
 
-Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn +++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn 
 -raamatun julkaisusta. Havainto, että pääoma tuottaa
 pitkällä aikavälillä työtä enemmän oli ansiokkaasti tilastoaineistolla
 perusteltu ja johtopäätös varallisuuden kasautumisesta on todellinen
 uhka. Pikettyä lukiessa on luonnollisesti pidettävä mielessä esimerkiksi
 Gregory Mankiwin ansiokas kritiikki, jossa osoitetaan useiden jo
 olemassa olevien yhteiskunnallisten rakenteiden suitsivan tehokkaasti
-dynastioiden syntyä.[^1]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+dynastioiden syntyä.[^1]
  Siksi seuraavassa keskitytään tulonjaon vähemmän
 puhuttuun puoleen: korkeasti tuottavien ammattien motivaatiotekijöihin
 ja niiden yhteyteen tulonjakoon.
@@ -45,29 +27,11 @@ Kiinteät, elinkustannuksiin sidotut palkat ovat merkittävä tekijä siinä,
 miksi makrotaloudessa nähdään liiketoimintasyklejä. Jos palkat ja
 ostovoima joustaisivat tehokkaammin ajassa, voitaisiin suhdannevaihtelua
 keventää merkittävästi. Naiivisti voisi ajatella, että
-pääomapainotteisempi palkitseminen olisi helppo ratkaisu.[^2]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+pääomapainotteisempi palkitseminen olisi helppo ratkaisu.[^2]
  Käytännössä
 kuitenkin pääomapalkitseminen palkitsee ylikorostuneesti niitä, joilla
 pääomaa on vanhastaan, sillä veroseuraamukset, pääoman hallinnan
 kustannukset ja huonoista valinnoista seuraava urapalkkakehityksen
-+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
 
 ovat pienituloisille suuria. Onko siis
 löydettävissä palkitsemismalli, joka ei lankea tähän ansaan?
@@ -76,16 +40,7 @@ Teollisen yhteiskunnan logiikka oli hyvin yksinkertainen: rakennetaan
 tehdas, palkataan henkilökunta ja osoitetaan heille paikka koneistossa
 ja tuotetaan hyödykkeitä niin että marginaalikustannus on
 marginaalituoton verran. Jos tuotto ei ollut riittävää, voitiin
-optimoida prosesseja.[^3]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+optimoida prosesseja.[^3]
  Tällaisessa ympäristössä oli luontevaa, että
 pääoma myös palkitaan tuloksesta: tuottoa ei olisi olemassa ilman
 tehdasta ja työvoimaa kannattaa kompensoida suoritteesta.
@@ -98,16 +53,7 @@ tuotteen kehittäminen maksaa paljon, koska parhaat osaajat myös haluavat
 parasta palkkaa. Samaten tuotteen markkinointi erityisesti
 kuluttajamarkkinoilla on kallista: Applen sovelluskaupassa top-10:een
 nouseminen on miljoonainvestointi, eikä takaa vielä mitään pysymisestä
-listoilla.[^4]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+listoilla.[^4]
  On kuitenkin selvää, että työn arvo on noussut vähintään
 pääomaan rinnasteiseksi: kumpaakin tarvitaan, jotta voidaan rakentaa
 kestävää ja kannattavaa liiketoimintaa.
@@ -117,16 +63,7 @@ muodostuu markkinoilla, eikä ole suoraan sidoksissa yksilön
 tuottavuuteen. Työehtosopimusjärjestelmä ankkuroi palkkojen alapään, mutta mitä yksilöllisempi osaaminen yksilöllä on, sitä
 yrittäjämäisemmin hän voi ulosmitata tämän osaamisen tuottaman
 arvonlisän yritykselle, mutta tämä voi tapahtua vasta kun arvo on
-osoitettu.[^5]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+osoitettu.[^5]
  Kasvuyrityksen alkuvaiheissa ei ole varaa maksaa
 markkinapalkkoja, mutta tästä kompensoidaan tyypillisesti potilla
 pääomaa, jota usein luovutetaan tipoittain ajan yli sitouttamiskeinona.
@@ -145,16 +82,7 @@ tuotoista mitä enemmän hän on sille tuottanut. Osuuskuntajärjestelmässä
 pääoma (eli osakkeiden myynti) katsotaan velaksi, jota maksetaan
 takaisin korkojen kera, mutta osallistuminen (eli osuuksien ostaminen ja
 palveluiden käyttäminen) katsotaan toiminnaksi, joka oikeuttaa osuuteen
-osuuskunnan ylijäämästä (eli voitosta).[^6]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+osuuskunnan ylijäämästä (eli voitosta).[^6]
  Työosuuskunnassa siis eniten
 töitä tehnyt saa suurimman osuuden ylijäämästä ja pääoman tarjoajan
 panosta maksetaan takaisin kun liiketoiminta sen sallii.
@@ -162,16 +90,7 @@ panosta maksetaan takaisin kun liiketoiminta sen sallii.
 Ei ole kohtuutonta sanoa, että osuuskunta-ajattelu lyö yli toiseen
 suuntaan: pääoma ottaa riskiä, ja sitä vastaan on kohtuullista odottaa
 kiinteää korkoa parempaa palautusta. Mutta onko riski riittävä oikeutus
-rajattomaan tuottokattoon?[^7]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+rajattomaan tuottokattoon?[^7]
  Onko pääoma niin välttämätöntä, että siitä
 tulee saada pysyvä osuus yrityksen tuotosta? Toisaalta: tuleeko minkään
 oikeuttaa pysyvään osuuteen liiketoiminnan tuotoista?
@@ -180,28 +99,10 @@ Piketty perustelee kirjassaan Capital in the 21st Century laajalla
 tilastoaineistolla käsitystään, että pääoma tuottaa systemaattisesti
 paremmin kuin työ. Osa tästä vaikutuksesta syntyy varmasti siitä, että
 työtä joutuu tekemään aina uudestaan, kun taas osakkeet tuottavat
-osinkovirtaa ajasta ikuisuuteen.[^8]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+osinkovirtaa ajasta ikuisuuteen.[^8]
  Olisi siis perusteltua siirtyä
 tuotonjakoajattelussamme suuntaan, jossa pääoman etuja kevennetään ja
-työvoiman tulokaarta pidennetään.[^9]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+työvoiman tulokaarta pidennetään.[^9]
 
 Osuuskuntajärjestelmä tarjoaa hyvän pohjan kestävämmälle kehitykselle:
 järjestelmä, jossa työtä tekevät osuudenomistajat saavat ylijäämän
@@ -209,16 +110,7 @@ palautusta suhteessa työpanoksensa arvoon kuulostaa oikeudenmukaiselta,
 mutta myös pääomalle tulee tarjota mahdollisuus saada ylituottoa taatun
 velkakoron yli. Tähän voisi olla tarkoituksenmukaista rakentaa malli,
 jossa pääoman tuottavuutta arvioidaan samalta viivalta kuin työn
-tuottavuutta.[^10]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+tuottavuutta.[^10]
  Käytännössä tällainen malli on helposti manipuloitavissa
 kirjanpitotempuilla ja muilla toimivan johdon erikoisuuksilla, joten
 yksinkertainen ``osake on työtunti''-malli voisi olla parempi.
@@ -229,16 +121,7 @@ laadukkaaseen markkinointiin investoitu euro tuottaa varmasti enemmän
 etua kuin komea toimisto ja pääoman intressissä olisi maksimoida
 tuottoaan. Tätä vastaan tarvittaisiin työntekijädemokratiaa, jossa
 työntekijöillä olisi yhtäläisesti valtaa yhtiökokouksissa. Tämä taas
-sotii modernia corporate governance -ajattelua vastaan[^11]+++
-draft = false
-weight = 114
-description = " Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn ..."
-title = "Tulojen ja varallisuuden jaon logiikka "
-bref = ""
-toc = false
-+++
-
-
+sotii modernia corporate governance -ajattelua vastaan[^11]
 , jossa katsotaan
 että yhtiön eri instituutioilla on selkeät omat tehtävänsä eikä toimivan
 johdon tulisi sekaantua omaan palkitsemiseensa.

@@ -25,16 +25,7 @@ korkean tuottavuuden työntekijöille ja aloilla joissa osaajapula on
 merkittävä. Mahdollisuuksien rajautuminen pienelle joukolle ei ole
 johtunut siitä, etteikö suurta osaa asiantuntijatyöstä voisi hoitaa
 suurelta osin tai täysin etänä, vaan juurtuneista ajattelu- ja
-toimintamalleista.[^1]+++
-draft = false
-weight = 210
-description = " Ajasta ja paikasta riippumaton asiantuntijatyö yleistyy..."
-title = "Työn ja organisaatioiden hybridisaatio "
-bref = ""
-toc = false
-+++
-
-
+toimintamalleista.[^1]
  Pandemia-ajan kokemusten perusteella juurtuneita
 toimintamalleja uskalletaan kyseenalaistaa yhä enemmän, ja tulevaisuuden
 vakiintuneita käytäntöjä tullaan muodostamaan laajamittaisesti
@@ -47,16 +38,7 @@ osittain selittää pandemian väliaikaisuus. Jotkin työnantajat ovat
 vuokranneet toimistotason ergonomiset työvälineet työntekijöiden
 kotityöpisteille. Sitäkin useampi työntekijä lienee itse hankkinut
 kotiinsa hyvän työtuolin, sähköpöydän ja mahdollisesti myös
-elektroniikkaa kuten erillisen näytön.[^2]+++
-draft = false
-weight = 210
-description = " Ajasta ja paikasta riippumaton asiantuntijatyö yleistyy..."
-title = "Työn ja organisaatioiden hybridisaatio "
-bref = ""
-toc = false
-+++
-
-
+elektroniikkaa kuten erillisen näytön.[^2]
  Samaan aikaan työnantaja on
 säästänyt lähityön kustannuksissa. Etätyön kustannusten jakautuminen
 tarvitsee yhteisiä pelisääntöjä: olisi kohtuullista, että työnantaja
@@ -69,30 +51,12 @@ tekemättä, saattavat ihmiset muuttaa kauemmas kaupungeista asuakseen
 väljemmin, kun päivittäisen työmatkan pitkittyminen ei tätä estä.
 Tällöin asumismuodon ja pidempien asiointimatkojen aiheuttamat
 ympäristöhaitat voivat kumota työmatkojen poisjäännistä saadut hyödyt.
-[^3]+++
-draft = false
-weight = 210
-description = " Ajasta ja paikasta riippumaton asiantuntijatyö yleistyy..."
-title = "Työn ja organisaatioiden hybridisaatio "
-bref = ""
-toc = false
-+++
-
-
+[^3]
 
 Etä- ja lähityön suhteen tulevaisuus ei ole yhdentekevää. Luovuus kukkii
 tiiviissä ihmisyhteisöissä, ja siksi on arvokasta että ihmiset ja
 yritykset ovat keskittyneet tiiviille kaupunkialueilla. Useille
-ihmisille lähityöyhteisö on tärkeä myös työhyvinvoinnin kannalta. [^4]+++
-draft = false
-weight = 210
-description = " Ajasta ja paikasta riippumaton asiantuntijatyö yleistyy..."
-title = "Työn ja organisaatioiden hybridisaatio "
-bref = ""
-toc = false
-+++
-
-
+ihmisille lähityöyhteisö on tärkeä myös työhyvinvoinnin kannalta. [^4]
  Kulloinkin etätyössä olevat kannattaa
 laittaa työskentelemään keskenään ja lähityössä olevat keskenään, jotta
 työskentelymahdollisuudet ovat mahdollisimman symmetriset.

@@ -24,16 +24,7 @@ on vuosikymmeniä rakennettu kasvun varaan valtioiden taloutta isompia
 eläkejärjestelmiä myöten, ei irtautumista kasvun tavoittelusta voi
 ohittaa olankohautuksella.
 
- Kasvavan talouden aikaan [^1]+++
-draft = false
-weight = 67
-description = " YK:n kestävän kehityksen tavoitteet huomioivat talouden erityisesti neljän tavoitteen kautta: säällinen työ ja talouskasvu; teollisuus, innovaatiot ja infrastruktuuri; eriarvoisuuden vähentäminen; sekä vastuullinen kulutus ja tuotanto..."
-title = "Taloudellisesti kestävät työn rakenteet "
-bref = ""
-toc = false
-+++
-
-
+ Kasvavan talouden aikaan [^1]
  ihmiset ovat
 tyytyväisempiä joka mahdollistaa myös kunnianhimoiset ympäristötoimet.
 Kasvua voidaan ohjata tukemaan kestävyystavoitteita ohjaamalla taloutta
@@ -45,16 +36,7 @@ Kasvulla on kuitenkin rajansa eikä talousjärjestelmää voi rakentaa
 loputtomiin sen varaan. Kasvuhakuisuudesta luopuminen olisi myös
 ympäristöllisen kestävyyden kannalta toivottavaa, erityisesti koska on
 epäselvää voiko talouskasvun absoluuttista irtikytkentää
-ympäristöhaitoista koskaan tapahtua. [^2]+++
-draft = false
-weight = 67
-description = " YK:n kestävän kehityksen tavoitteet huomioivat talouden erityisesti neljän tavoitteen kautta: säällinen työ ja talouskasvu; teollisuus, innovaatiot ja infrastruktuuri; eriarvoisuuden vähentäminen; sekä vastuullinen kulutus ja tuotanto..."
-title = "Taloudellisesti kestävät työn rakenteet "
-bref = ""
-toc = false
-+++
-
-
+ympäristöhaitoista koskaan tapahtua. [^2]
  Kasvuriippuvuudesta irtautumista
 onkin syytä tutkia aktiivisesti ja etsiä mahdollisuuksia
 toteuttamiskelpoiseen irtautumiseen ja uuteen järjestelmään.
@@ -68,32 +50,14 @@ kunnioittavaksi.
 Kasvuriippuvuutta haastaa myös talouskasvun hidastuminen. Talouskasvu
 rakentuu kahdesta osasta: väestön kasvusta ja tuottavuuden kasvusta.
 Rikkaissa maissa, ja vuosikymmenten aikajänteella koko maailmassa,
-väestön määrä on kääntymässä laskusuuntaan.[^3]+++
-draft = false
-weight = 67
-description = " YK:n kestävän kehityksen tavoitteet huomioivat talouden erityisesti neljän tavoitteen kautta: säällinen työ ja talouskasvu; teollisuus, innovaatiot ja infrastruktuuri; eriarvoisuuden vähentäminen; sekä vastuullinen kulutus ja tuotanto..."
-title = "Taloudellisesti kestävät työn rakenteet "
-bref = ""
-toc = false
-+++
-
-
+väestön määrä on kääntymässä laskusuuntaan.[^3]
  Kun tähän trendiin yhdistää
 esimerkiksi työmarkkinoiden palveluvaltaistumisen ja
 hevonpaskaistumisen, on kasvun suhteen joka tapauksessa tiedossa
 vaikeita aikoja pitkällä tähtäimellä.
 
 Degrowth-liikkeellä on jaloja tavoitteita, jotka ovat kannatettavia
-riippumatta talousjärjestelmästä. [^4]+++
-draft = false
-weight = 67
-description = " YK:n kestävän kehityksen tavoitteet huomioivat talouden erityisesti neljän tavoitteen kautta: säällinen työ ja talouskasvu; teollisuus, innovaatiot ja infrastruktuuri; eriarvoisuuden vähentäminen; sekä vastuullinen kulutus ja tuotanto..."
-title = "Taloudellisesti kestävät työn rakenteet "
-bref = ""
-toc = false
-+++
-
-
+riippumatta talousjärjestelmästä. [^4]
  Takuutyöllisyys, työelämän
 demokratisaatio, kerskakuluttamisen lopettaminen ja varallisuuserojen
 kaventaminen ovat tarpeellisia tai vähintään harkinnan arvoisia

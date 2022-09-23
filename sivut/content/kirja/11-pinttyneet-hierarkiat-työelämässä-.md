@@ -20,16 +20,7 @@ yhteiskunnan tehtävä on pitää lapset turvassa ja samaan aikaan kasvattaa
 heistä yhteiskunnan toimintaan osallistuvia aikuisia. Mutta voidaanko
 samaa sanoa aikuisten välisestä työelämästä? Tietävätkö johtajat todella
 aina paremmin? Ja pitääkö työntekijöitä aktiivisesti holhota ja suojella
-kuin lapsia?[^1]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+kuin lapsia?[^1]
 
 Vahva managerialismin perinne syntyi tarpeeseen. 1800-luvun
 loppupuolella työvoima oli matalasti koulutettua eikä luku- tai
@@ -38,52 +29,16 @@ työympäristö olivat nykymittapuulla erittäin vaarallisia ja
 tapaturmaiset kuolemat olivat yleisiä työpaikoilla. Tieteellisen
 liikkeenjohdon ja siihen sidotun managerialismin tarkoituksena oli
 parantaa työn tuottavuutta ja laatua, standardisoida työntekoa parhaiden
-käytäntöjen mukaisesti ja taata työntekijöiden turvallisuus. [^2]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+käytäntöjen mukaisesti ja taata työntekijöiden turvallisuus. [^2]
  Aina
 1970-luvulle saakka yliopiston käyneitä tai muuten korkeakoulutettuja
 työntekijöitä oli vielä työvoimasta suhteellisen vähän ja esimies
 todellakin saattoi tietää paremmin miten työt kannattaisi tehdä
 tehokkaasti, turvallisesti ja eri säädösten mukaisesti. Mutta nykyään
 teollisuusmaiden työvoima on huomattavasti koulutetumpaa, ja
-korkeakoulututkinnonkin Suomessa on suorittanut noin 41+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
- työväestöstä.[^3]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+korkeakoulututkinnonkin Suomessa on suorittanut noin 41
+\%
+ työväestöstä.[^3]
 
 Onko työelämässä siis enää samanlaista tarvetta kontrolloida ja komentaa
 työntekijöitä kuin vielä muutama kymmenen vuotta sitten?
@@ -97,16 +52,7 @@ suhteessa toisiinsa, meritokraattinen perusta hierarkioille ja
 managerialismille on murentumassa. Erityisesti tietotyössä tilanne on
 jopa päinvastainen - oikeastaan vain työntekijä itse tietää työhönsä
 kuuluvan työn tarkan sisällön ja pystyy päättämään miten työ kannattaa
-tehdä.[^4]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+tehdä.[^4]
  Toisaalta hierarkioilla on myös oma paikkansa yhteistoiminnan
 koordinoinnissa ja erilaisessa päätöksenteossa. Se kuitenkin näyttelee
 tällä hetkellä ylikorostunutta roolia työelämän rakenteissa.
@@ -117,16 +63,7 @@ työelämässä? Työelämää ei voida pitää yhteiskunnasta erillisenä osana
 vaan se muodostaa elimellisen osan ihmisten elämästä ja inhimillisen
 kapasiteetin käytöstä. Näinpä sitä tulisi koskettaa samankaltaiset
 vaatimukset yhdenvertaisuudesta ja yksilön vapauksista kuin yhteiskuntaa
-yleensäkin.[^5]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+yleensäkin.[^5]
  On merkille pantavaa, että yksityiselämässään ihmiset
 päättävät talojen ostamisesta ja valtion päättäjien valinnasta, mutta
 töissä heiltä pahimmillaan estetään aivan yksinkertaisimmatkin
@@ -139,16 +76,7 @@ erilaisia yhteisöllisiä käytänteitä ja yleisesti työpaikkademokratian
 vahvistamista. Luottamukseen ja yhteistoimintaan perustuvasta
 organisaatioista voidaan oppia erilaisia tapoja organisoitua, jotka
 eivät vaadi tiukkoja hierarkioita (ainakaan kaikessa) päätöksenteossa.
-[^6]+++
-draft = false
-weight = 143
-description = " Teollistuneissa yhteiskunnissa on totuttu elämään hierarkiassa..."
-title = "Pinttyneet hierarkiat työelämässä "
-bref = ""
-toc = false
-+++
-
-
+[^6]
 
 Demokratiatutkijat ovat myös argumentoineet, että demokratian
 vahvistaminen työelämässä vahvistaa myös yhteiskuntatason demokratiaa,

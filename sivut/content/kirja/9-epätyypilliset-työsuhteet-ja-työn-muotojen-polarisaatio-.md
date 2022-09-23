@@ -14,142 +14,25 @@ sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden
 yhdistelmä. Lisäksi joskus mukaan lasketaan myös työsuhteet, jotka ovat
 jatkuvasti kilpailutuksen kohteena (esimerkiksi työpaikka on sidottu
 asiakkuuden jatkumiseen ja että tätä kautta irtisanomisen uhka on
-jatkuva). Vuonna 2018 15-64 vuotiaista työllisistä 24 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+jatkuva). Vuonna 2018 15-64 vuotiaista työllisistä 24 
+\%
  oli erilaisissa
-epätyypillisissä töissä ja 6 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+epätyypillisissä töissä ja 6 
+\%
  työllisti itsensä yrityksen tai
-toiminimen kautta (Ojala, 2020). Jos noin 30+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+toiminimen kautta (Ojala, 2020). Jos noin 30
+\%
  työvoimasta on
-epätyypillisissä työsuhteissa, onko se enää epätyypillistä?[^1]+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+epätyypillisissä työsuhteissa, onko se enää epätyypillistä?[^1]
  Ongelmaa
 epätyypillisessä työssä ei ole, mikäli se on vapaaehtoista. Kuitenkin
-näyttää siltä, että tästä 30 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-:stä puolet eli 15 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+näyttää siltä, että tästä 30 
+\%
+:stä puolet eli 15 
+\%
  on
-vastentahtoisesti tällaisessa työsuhteessa. Lisäksi 19 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+vastentahtoisesti tällaisessa työsuhteessa. Lisäksi 19 
+\%
  yrittäjistä on
 vastentahtoisesti yrittäjiä (Ojala, 2020).
 
@@ -161,151 +44,34 @@ työmarkkinat ovat itseasiassa varsin joustavat, jos tarkasteluksi
 otetaankin työajat, irtisanomisen helppous tuotannollistaloudellisista
 syistä, töiden ulkoistaminen määräaikaisille alihankkijoille tai
 sopimusmuotojen määrääminen (määräaikaisketjutukset, osatyösopimukset
-jne.). [^2]+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-Ottaen huomioon tämän lisäksi, että noin 30 +++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+jne.). [^2]
+Ottaen huomioon tämän lisäksi, että noin 30 
+\%
  työstä on
 joustavaa/epätyypillistä työtä, on hyvä kyseenalaistaa ovatko Suomen
 työmarkkinat todella niin jäykät kuin väitetään.
 
 Lisääntyneen ja vakiintuneen epätyypillisen työn lisäksi työelämään
-vaikuttaa myös työn polarisaatio.[^3]+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+vaikuttaa myös työn polarisaatio.[^3]
  Tilastokeskuksen analyysissä lähes
 puolta työssäkävijöistä vaivaa liian korkea työn intensiivisyys, joka
 syö hyvinvointia (Sutela, 2020). Lisäksi kuormittavat työt ja
-suorittavat rankat työt keskittyvät enemmän naisille (26+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+suorittavat rankat työt keskittyvät enemmän naisille (26
+\%
  miehillä -
-35+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+35
+\%
  naisilla). Sukupuolen lisäksi huomiota herättää koulutusasteen
 vaikutus työn luonteeseen. Kiireen pilaamat työt keskittyvät erityisesti
-korkeakoulututkinnon suorittaneille (72+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+korkeakoulututkinnon suorittaneille (72
+\%
 ) ja myös kuormittavissa töissä
-korkeakoulutettujen osuus on suuri (66+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+korkeakoulutettujen osuus on suuri (66
+\%
 ). Sen sijaan suorittavat rankat
 työt keskittyvät vain toisen asteen koulutuksen suorittaneille.
 
-Kyse on siis sekä sukupuoli- että koulutusasteasiasta.[^4]+++
-draft = false
-weight = 81
-description = " Epätyypillisillä työsuhteilla (tai epätyypillisellä työllä) tarkoitetaan sellaisia työsuhteita, jotka ovat osa-aikaisia, määräaikaisia tai näiden yhdistelmä..."
-title = "Epätyypilliset työsuhteet ja työn muotojen polarisaatio "
-bref = ""
-toc = false
-+++
-
-
+Kyse on siis sekä sukupuoli- että koulutusasteasiasta.[^4]
  Naisvaltaisten
 töiden kiire ja intensiivisyys täytyy ottaa prioriteetiksi työoloja
 parannettaessa ja palkkausta kehitettäessä. Edunvalvontatyötä tarvitaan

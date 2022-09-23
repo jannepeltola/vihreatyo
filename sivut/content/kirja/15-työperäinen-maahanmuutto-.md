@@ -14,16 +14,7 @@ tulevaisuutta ilman laajaa työperäistä maahanmuuttoa. Eläkejärjestelmä
 ja sosiaaliturva ylipäänsä on sidottu oletukseen joko korjautuvasta
 väestörakenteesta tai kiihtyvästä talouskasvusta. Niin kauan kuin
 materiaalisen ja taloudellisen kulutuksen kasvut ovat kytketty
-toisiinsa, jatkuva talouskasvu tuntuu vaikealta saavuttaa.[^1]+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+toisiinsa, jatkuva talouskasvu tuntuu vaikealta saavuttaa.[^1]
  Nykyisellä
 syntyvyydellä väestörakenne ei korjaudu itsestään, joten tarvitsemme
 maahanmuuttoa.
@@ -34,16 +25,7 @@ voimme saada fiksun ulkomaalaisen veronmaksajaksi, julkinen talous kiittää. Li
 lahjakkuus ovat likimain normaalijakautuneita, eli Suomen populaatiosta
 kaikkein lahjakkaimpaan prosenttiin kuuluu 55 000 ihmistä. Siis yhden
 ikäluokan verran. Intiassa samaan prosenttiin kuuluu 14 miljoonaa
-ihmistä.[^2]+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+ihmistä.[^2]
  Miksi kisata pienestä lahjakkaimpien poolista, kun voisi tuoda
 Suomen palveluiden, koulutuksen ja rauhallisen työelämän piiriin
 250-kertaisesti suuremmasta lahjakkuuspoolista väkeä?
@@ -58,16 +40,7 @@ makrotaloudellinen välttämättömyys saada Suomeen osaavaa työvoimaa,
 saatavuusharkinta, hitaat viisumiprosessit ja ulkomaalaisille kylmä
 kulttuuri pyrkivät aktiivisesti työntämään väkeä pois. Kaikki
 maahanmuuton prosessit tarvitsisivat rankkaa palvelumuotoilua ja ennen
-kaikkea omistajat.[^3]+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+kaikkea omistajat.[^3]
  Nyt samaa soppaa hämmentää pahimmillaan kymmenkunta
 eri virastoa, joilla kaikilla on osaomistajuus pienestä palasta
 kokonaisuutta. Näin saadaan varmasti pirstaloitunut palvelupolku - siis
@@ -75,37 +48,10 @@ jo ennen kuin yrittää tutustua suomalaisiin ja hankkia työpaikkaa.
 
 Suomalaiset yritykset ovat häikäilemättömän ulkomaalaisvastaisia.
 Tutkimusten mukaan kielitaito on yksi keskeinen syy: Vuonna 2020 vain 25
-+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
 
-
-\%+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+\%
  yrityksistä olisi valmis palkkaamaan työntekijän, jolla ei ole
-sujuvaa suomen kielen taitoa.[^4]+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+sujuvaa suomen kielen taitoa.[^4]
  Kulttuuritaustalla on myös väliä:
 valtioneuvoston vuonna 2022 tekemän selvityksen mukaan joka viides
 Aasiasta, latinalaisesta Amerikasta tai Lähi-idästä tullut työntekijä on
@@ -113,16 +59,7 @@ kokenut syrjintää nykyisessä työpaikassaan, mikä on jopa kolminkertainen
 taso muihin ulkomaalaisryhmiin verrattuna. Kolmannes työnantajista ei
 palkkaa lainkaan tietyiltä alueilta tulevia.
 
-Eivät työntekijäjärjestötkään sen parempia ole.[^5]+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
-
-
+Eivät työntekijäjärjestötkään sen parempia ole.[^5]
  Ihmiskauppavyyhdeissä on
 nähty, miten liitot välttelevät vastuutaan kaikkein haavoittuvimpien
 hyväksikäytöstä, jäseneksi.fi-palvelu on englanniksi parhaimmillaankin kryptinen ja
@@ -132,15 +69,6 @@ ulkomaalaisten lääkärien täydennyskoulutuksesta.
 
 Meidän on turha haaveilla kestävästä eläkejärjestelmästä ennen kuin
 työelämämme pystyy käsittämään ajatuksen ulkomaalaisesta työntekijästä.
-
-+++
-draft = false
-weight = 193
-description = " On täysin selvää, että suomalaisella hyvinvointiyhteiskunnalla ei ole tulevaisuutta ilman laajaa työperäistä maahanmuuttoa..."
-title = "Työperäinen maahanmuutto "
-bref = ""
-toc = false
-+++
 
 
 

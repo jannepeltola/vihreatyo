@@ -18,16 +18,7 @@ katse: on huomattu työntekijöitä arvioineen tekoälyn oppineen
 opetusdatastaan naisten syrjintää; kasvontunnistusalgoritmit tunnistavat
 heikommin tummia kasvoja; australialaisten sosiaalitukien
 arviointialgoritmi teki automaattisesti syrjiviä päätöksiä; autojen
-turvallisuusjärjestelmät toimivat huonommin naisilla+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+turvallisuusjärjestelmät toimivat huonommin naisilla
 
 Kun perustila on näin kehno, naiskeskeisen tai edes naiset huomioivan
 suunnittelun luulisi olevan kilpailuetu - ja usein se onkin. Naisten
@@ -37,89 +28,26 @@ näkymätöntä kättä ja luonnollisesti myös näiden markkinasegmenttien
 rahat kotiin. Mutta miksi muutkaan yritykset eivät voisi ottaa asiasta
 oppia? Kun ⅙ amerikkalaisista nuorista identifioituu vähintään osin
 seksuaali- tai sukupuolivähemmistöön, yritysten pitäisi alkaa herätä
-siihen, että maskuliininen katse ei ole enää rationaalinen valinta[^1]+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+siihen, että maskuliininen katse ei ole enää rationaalinen valinta[^1]
 .
 
 Ajatus ei kuitenkaan rajaudu pelkästään tuotekehitykseen. Kun naisen
 euro on 80 senttiä ja ulkomaalaisen euro 90 senttiä (sillä puolikkaalla,
-jolla työsuhde on virallinen ja hoidettu asiallisesti+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+jolla työsuhde on virallinen ja hoidettu asiallisesti
 ), työnantajan
-olisi vain rationaalista palkata halvempaa työvoimaa. [^2]+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+olisi vain rationaalista palkata halvempaa työvoimaa. [^2]
  Vähemmistöjen
 palkkaaminen on siis kustannusetu - siis sen lisäksi, että naisten
 urakehitys on hitaampaa kuin miesten, mikä taas vapauttaa runsaasti
 lahjakasta ainesta johtoportaaseen järkevissä yrityksissä.
 
 Naiset ovat kuitenkin helppo nakki ulkomaalaistaustaisiin verrattuna.
-Espoon kaupungin tutkimuksessa on todettu, että 75 +++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+Espoon kaupungin tutkimuksessa on todettu, että 75 
+\%
  Suomessa asuvista
 kansainvälisistä korkeasti koulutetuista osaajista on kokenut syrjintää
-työnhaussa. Vain 25 +++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
-\%+++
-draft = false
-weight = 232
-description = " Monimuotoisuudesta on puhuttu loputtomasti arvopohjaisesta näkökulmasta..."
-title = "Monimuotoisuus työelämässä "
-bref = ""
-toc = false
-+++
-
-
+työnhaussa. Vain 25 
+\%
  yrityksistä olisi valmis palkkaamaan työntekijän,
 jolla ei ole sujuvaa suomen kielen taitoa. Kolmannes työnantajista ei
 palkkaa lainkaan tietyiltä alueilta tulevia.

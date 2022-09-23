@@ -18,80 +18,35 @@ alueellinen: toisilleen sopivat työnhakijat ja työpaikat sijaitsevat
 kaukana toisistaan. Akavan PTT:ltä tilaaman selvityksen mukaan alueellinen
 kohtaanto-ongelma on vähentynyt 2000-luvulla. Ammatillinen
 kohtaanto-ongelma on monin verroin suurempi, vaikka sekin on muutosten
-kiihtymisestä huolimatta helpottanut hieman. [^1]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+kiihtymisestä huolimatta helpottanut hieman. [^1]
 
 Tutkintoon johtava koulutus on hitaimpia tapoja ratkaista ammatillista
 kohtaanto-ongelmaa, sillä tutkintojen suorittamiseen menee vuosia.
 Tutkintoon johtavan koulutuksen tarjoajien onkin tärkeä a) antaa
 opiskelijoille valmiudet ja aloitteellinen asenne oppia uutta sekä b)
 kyetä ennakoimaan osaamistarpeita. Etenkin jälkimmäinen on helpommin
-sanottu kuin tehty.[^2]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+sanottu kuin tehty.[^2]
 
 Täydennyskoulutus on onneksi nopeampaa. Viime aikoina onkin lisääntynyt
 rekrytoiva koulutus, jossa yritykset kouluttavat kyvykkäitä henkilöitä
 muutamassa kuukaudessa uuteen ammattiin, jonka jälkeen he siirtyvät
 tekemään töitä asiakkaalle. Rekrytoiva koulutus muistuttaakin
 oppisopimuskoulutusta, joka ei valitettavasti Saksan tavoin ole ottanut
-Suomessa tuulta alleen.[^3]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+Suomessa tuulta alleen.[^3]
 
 Vaikka ammatillista osaamista olisikin, voi kynnykseksi tulla kieli.
 Suomessa on paljon ulkomaalaistaustaisia --~esimerkiksi pakolaisia ja
 suomalaisista korkeakouluista vastavalmistuneita --~joiden on vaikea
 työllistyä puutteellisen kotimaisen kielen osaamisen vuoksi, vaikka
 monissa tehtävissä myös julkisella sektorilla pärjäisi auttavalla kielen
-osaamisella tai kokonaan englanniksi.[^4]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+osaamisella tai kokonaan englanniksi.[^4]
  On vaikea arvioida kuinka usein
 kielitaitovaatimus on aito juurisyy työllistymättömyydelle ja kuinka
 usein kyse on esimerkiksi ennakkoluuloista.
 
 Nopeinta on kohtaanto-ongelman ratkaisemista on osaamisen tunnistaminen.
 Toisen alan koulutuksessa ja työkokemuksessa voi olla paljon
-siirrettävää osaamista, joka vain odottaa työllistämistä.[^5]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+siirrettävää osaamista, joka vain odottaa työllistämistä.[^5]
  Parasta toki,
 jos ammatillista kohtaanto-ongelmaa ei synny, vaan yksilöt ja
 työnantajat aloitteellisesti kehittävät osaamista jatkuvasti vastaamaan
@@ -104,16 +59,7 @@ joutuu jättämään rakkaan kodin taakseen. Olisikin tärkeä huolehtia
 siitä, että muuttaminen paikkakunnalta toiselle olisi taloudellisesti
 järkevää ja toisaalta, että ihmiset ovat päässeet alunperinkin
 muuttamaan sinne, missä työtä on eniten tarjolla: kasvaviin
-kaupunkeihin.[^6]+++
-draft = false
-weight = 160
-description = " Työmarkkinan kohtaanto-ongelmalla tarkoitetaan sitä, että samaan aikaan on paljon avoimia työpaikkoja ja työnhakijoita, mutta avoimet työpaikat eivät täyty ja työnhakijat eivät löydä työtä --eivät ainakaan tarpeeksi nopeasti..."
-title = "Työn kohtaanto "
-bref = ""
-toc = false
-+++
-
-
+kaupunkeihin.[^6]
 
 Osa kohtaanto-ongelmasta kilpistyy kannustimiin ja työsuhteen laatuun.
 Ilman perustuloa osa ihmisistä on kannustinloukussa, jossa työn

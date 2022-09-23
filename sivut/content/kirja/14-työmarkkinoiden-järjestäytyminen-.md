@@ -21,16 +21,7 @@ kääntyessä enenevissä määrin työnantajien eduksi - on yhä suuri merkitys
 pienen ihmisen puolella olevana rakenteena, joka estää työehtojen
 heikkenemistä. Tietotyössä sen sijaan yhä useammalle kolmikanta
 näyttäytyy usein joko esteenä rakenteiden kehitykselle tai palkkojen
-nousun takaajana.[^1]+++
-draft = false
-weight = 180
-description = " Niin kauan kuin Suomessa on ollut työmarkkinoita, on myös ollut korporaatioita..."
-title = "Työmarkkinoiden järjestäytyminen "
-bref = ""
-toc = false
-+++
-
-
+nousun takaajana.[^1]
  Kummassakin tilanteessa laadulliset kysymykset jäävät
 harmillisen usein taustalle vaikka niillä olisi jopa palkkaa suurempi
 merkitys epävarman työmarkkinatilanteen korjaajana.
@@ -41,16 +32,7 @@ maissa juuri ainutlaatuisen lomautusjärjestelmän ansiosta.
 Ansiosidonnainen työttömyysturva takasi perustoimeentulon, lomautus piti
 yllä toivoa työpaikasta suhdanteiden ja liiketoimintamallin parantuessa
 ja työnantaja säästyi uusien työntekijöiden metsästämiseltä ja
-perehdytykseltä.[^2]+++
-draft = false
-weight = 180
-description = " Niin kauan kuin Suomessa on ollut työmarkkinoita, on myös ollut korporaatioita..."
-title = "Työmarkkinoiden järjestäytyminen "
-bref = ""
-toc = false
-+++
-
-
+perehdytykseltä.[^2]
  Tämä on ennen kaikkea laadullinen työmarkkinakysymys,
 joka tukeutuu samalla valtion laadukkaaseen sosiaalipolitiikkaan.
 Työmarkkinapolitiikkaa parhaimmillaan.
@@ -62,16 +44,7 @@ kysymys, mutta miten tärkeänä pidämme loppujen lopuksi palkkatason
 muodostumista markkinoilla? Työnantajat ovat sulkeneet oven
 tulopoliittisilta kokonaisratkaisuilta, mutta eikö olisi vastuullista
 makrotaloutta nimenomaan säädellä tarkasti yleiskorotusten tasoa ja
-antaa henkilökohtaisten palkanosien kellua?[^3]+++
-draft = false
-weight = 180
-description = " Niin kauan kuin Suomessa on ollut työmarkkinoita, on myös ollut korporaatioita..."
-title = "Työmarkkinoiden järjestäytyminen "
-bref = ""
-toc = false
-+++
-
-
+antaa henkilökohtaisten palkanosien kellua?[^3]
  Eikö olisi parempi löytää
 palkankorotusten sijaan sellaisia joustoja, jotka turvaavat sekä
 yritysten jatkuvuuden että työntekijöiden työpaikat?
@@ -79,16 +52,7 @@ yritysten jatkuvuuden että työntekijöiden työpaikat?
 Ja ennen kaikkea: mihin on kadonnut työntekijäpuolen solidaarisuus?
 Puheenvuorot kuulostavat Gordon Geckon puhelimelta: viis joustoista ja
 laadullisista parannuksista, kunhan meidän alamme palkankorotukset
-juoksevat![^4]+++
-draft = false
-weight = 180
-description = " Niin kauan kuin Suomessa on ollut työmarkkinoita, on myös ollut korporaatioita..."
-title = "Työmarkkinoiden järjestäytyminen "
-bref = ""
-toc = false
-+++
-
-
+juoksevat![^4]
  Ayn Randin ajattelu luulisi sopivan huonosti yhteen
 perinteisen AY-ajattelun kanssa, mutta niin vain näimme taas miten
 palkkakuoppaan juuttuneiden naisvaltaisten alojen palkkaohjelmat
@@ -98,16 +62,7 @@ Edes akavalaiset liitot eivät tulleet apuun, vaikka hyvinvoivien
 lastenhoitajien, lähihoitajien ja sairaanhoitajien luulisi olevan
 ensiarvoisen tärkeitä lapsiperheiden, ikääntyviä vanhempiaan hoitavien
 ja ihan normaalien työkykyisten jatkuvan työpanoksen ja laadukkaan arjen
-kannalta.[^5]+++
-draft = false
-weight = 180
-description = " Niin kauan kuin Suomessa on ollut työmarkkinoita, on myös ollut korporaatioita..."
-title = "Työmarkkinoiden järjestäytyminen "
-bref = ""
-toc = false
-+++
-
-
+kannalta.[^5]
  Kateus ja nollasumma-ajattelu ahneus eivät kuulu moderniin
 aikaan, vaan on kyettävä löytämään systeemisempiä ratkaisuja.
 

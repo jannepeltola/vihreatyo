@@ -20,16 +20,7 @@ sittemmin saanut muitakin vakiintuvia merkityksiä, mutta alunperin
 oikeudenmukainen siirtymä on koskenut nimenomaan työmarkkinakysymyksiä:
 miten siirtymä ilmastoystävälliseen yhteiskuntaan tehdään niin, että
 ilmastotoimien vuoksi työpaikkansa menettävät löytävät uutta mielekästä
-työtä? [^1]+++
-draft = false
-weight = 58
-description = " Kuolleella planeetalla ei ole työpaikkoja..."
-title = "Ekologisesti kestävä työ "
-bref = ""
-toc = false
-+++
-
-
+työtä? [^1]
  Tämä on ollut myös toistaiseksi vallitseva työelämäkysymys
 kestävästä siirtymästä puhuttaessa, vaikka aihe ansaitsisi paljon
 laajempaa tarkastelua. Oikeudenmukainen siirtymä tarkastelee, miten
@@ -46,16 +37,7 @@ hyvällä alulla niin Suomessa kuin EU:ssa esimerkiksi päästökaupan ja
 kiertotaloussäätelyn myötä.
 
 Toisekseen työntekijöille tulisi saada neuvotteluvaltaa ympäristölle
-haitallisesta työstä kieltäytymiseksi[^2]+++
-draft = false
-weight = 58
-description = " Kuolleella planeetalla ei ole työpaikkoja..."
-title = "Ekologisesti kestävä työ "
-bref = ""
-toc = false
-+++
-
-
+haitallisesta työstä kieltäytymiseksi[^2]
 , jolloin ympäristölle
 haitallisesta työstä täytyisi maksaa enemmän palkkaa ja sen teettäminen
 olisi vähemmän kannattavaa. Kun oman työuran ympäristöystävällisyys
@@ -74,16 +56,7 @@ Työ on iso osa identiteettiä ja kestävyysmurroksen myötä monien
 identiteetti on murroksessa. Muutos voi olla merkittävä esimerkiksi
 kiertotalouden edetessä, kun yhä harvemman työssä valmistetaan uusia
 tuotteita ja vastaavasti yhä useamman työ on vanhaa korjaavaa ja
-ylläpitävää. [^3]+++
-draft = false
-weight = 58
-description = " Kuolleella planeetalla ei ole työpaikkoja..."
-title = "Ekologisesti kestävä työ "
-bref = ""
-toc = false
-+++
-
-
+ylläpitävää. [^3]
 
 Lineaaritalouden rakenteisiin varttuneille ja
 ehdollistuneille tämä identiteetin muutos voi tuntua ikävältä ja

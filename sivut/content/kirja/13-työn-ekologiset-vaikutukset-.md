@@ -33,16 +33,7 @@ osalta valintaa helpottaa esimerkiksi EU:n kestävän rahoituksen
 taksonomian piiriin pääsevät organisaatiot ja toiminnot.
 
 Ympäristöystävällisen työpaikan tai työnkuvan valitseminen ei myöskään
-ole kaikille mahdollista.[^1]+++
-draft = false
-weight = 175
-description = " Työllä on aina ympäristöllisiä vaikutuksia, ja useimmissa työnkuvissa ja organisaatioissa vaikutukset ovat niin positiivisia kuin negatiivisia..."
-title = "Työn ekologiset vaikutukset "
-bref = ""
-toc = false
-+++
-
-
+ole kaikille mahdollista.[^1]
  Esimerkiksi osatyökykyisten ja matalasti
 koulutettujen valinnanvara jo lähtökohtaisesti pieni. Yleisemmin ihmiset
 ovat varttuessaan yhä juurtuneimpia esimerkiksi asuinpaikkaansa,

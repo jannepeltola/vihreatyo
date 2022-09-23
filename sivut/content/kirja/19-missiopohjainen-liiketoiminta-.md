@@ -22,16 +22,7 @@ sosiaalisilla ja ympäristötavoitteilla. Onkin alettu puhua yleistäen
 ``missio-pohjaisesta''liiketoiminnasta tai nk. ``triple bottom
 line''yrityksistä. Niiden keskeinen tavoite ei ole ainoastaan tuottaa
 omistajilleen voittoa vaan ne ottavat sosiaaliset ja ympäristövastuut
-kiinteäksi osaksi omaa toimintansa tarkoitusta.[^1]+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+kiinteäksi osaksi omaa toimintansa tarkoitusta.[^1]
  Myös EU komissio on
 alkanut edistämään missiopohjaisen liiketoiminnan synnyttämistä EUn
 alueelle.
@@ -51,16 +42,7 @@ toimivalla johdolla tai vähemmistöomistajilla ei ole suojaa
 pääomistajien voiton tavoittelua vastaan. Vaikka todellisuus ei ole näin
 yksioikoista (ja Suomen lainsäädäntö antaa paljon painoa
 yhteiskuntavastuulle), olisi uuden yritysmuodon kehittäminen tai
-osakeyhtiölain päivittäminen paikallaan.[^2]+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+osakeyhtiölain päivittäminen paikallaan.[^2]
  Lain kehittäminen
 osakeyhtiölain sisällä tai uuden yhtiömuodon mahdollistamiseksi toisi
 selkänojaa ja mahdollisuuksia uuden polven yrittäjille.
@@ -69,16 +51,7 @@ TEM:n raportti ``Yhteiskunnalliset yritykset Suomessa''(2020) painottaa
 lainsäädäntökehityksen lisäksi tarpeita myös yrityskoulutuksen
 kehittämisessä, sillä erilaiset yhteiskunnalliset yritysmuodot eivät ole
 lähes lainkaan esillä yritysten perustamista tukevissa resursseissa.
-[^3]+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+[^3]
 
 Sosiaalinen tuki ja saatavilla olevat resurssit yhteiskunnalliseen
 yrittämiseen ovat siis vielä rajalliset ja niitä pitää kehittää.
@@ -87,62 +60,17 @@ TEM ehdottaa raportissaan suomalaisen yhteiskunnallisen yrityksen
 määritelmän perustaksi yhteiskunnallinen yritys -merkin kriteerejä,
 jotka soveltuvat kaikille toimialoille ja yhtiö-/yritysmuodoille, kunhan
 yhtiöllä/yrityksellä on yhtiöjärjestyksessä tai säännöissä rajoitetun
-voitonjaon kirjaus.[^4]+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+voitonjaon kirjaus.[^4]
  Esitetyt ensisijaiset kriteerit yhteiskunnalliselle
 yritykselle ovat:
 
 1. Yrityksen tarkoitus on ratkaista yhteiskunnallisia tai
-ympäristöongelmia+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
-\\+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+ympäristöongelmia
+\\
 
 2. Suurin osa voitosta käytetään yhteiskunnallisen tavoitteen
-edistämiseen+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
-\\+++
-draft = false
-weight = 247
-description = " Keskustelu voiton tavoittelusta yritysten ainoana lakisääteisenä velvoitteena on saanut osakseen runsasta kritiikkiä..."
-title = "Missiopohjainen liiketoiminta "
-bref = ""
-toc = false
-+++
-
-
+edistämiseen
+\\
 
 3. Liiketoiminnan avoimuus ja läpinäkyvyys
 
