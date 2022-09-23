@@ -9,7 +9,7 @@ Paginate = 20
   author = "Jori Mäkkeli, Janne Peltola, Juho Salmi ja Jussi-Pekka Teini" # add your company name
   github = "" # add your github profile name
   twitter = "" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+  email = ""
 
 [[menu.main]]
     name = "Kirja"
