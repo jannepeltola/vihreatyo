@@ -21,32 +21,14 @@ keskeinen megatrendi jonka vaikutukset heijastuvat taloudellisen
 toiminnan muuttumisen myötä voimakkaasti myös työelämään.
 
 Vihreällä siirtymällä on voittopuolisesti niin kansan kuin poliittisen ja
-taloudellisen eliitin tuki. [^1]+++
-draft = false
-weight = 279
-description = " Ilmasto- ja muut ympäristökysymykset alkavat viimein nousta niiden ansaitsemaan asemaan yhteiskunnassa..."
-title = "Vihreä siirtymä "
-bref = ""
-toc = false
-+++
-
-
+taloudellisen eliitin tuki. [^1]
  Esimerkiksi elinkeinoelämä pääsääntöisesti
 tukee ripeää vihreää siirtymää varsinkin Pohjoismaissa ja Suomessa.
 Muutoksella on kuitenkin myös vastavoimansa, joista merkittävimpiä ovat
 populistiset liikkeet ja nykyisiin ympäristölle haitallisiin
 rakenteisiin takertuvat edunvalvontajärjestöt. Nämä vastavoimat eivät
 ole kyenneet pysäyttämään vihreää siirtymää, mutta ovat pystyneet
-hidastamaan sitä. [^2]+++
-draft = false
-weight = 279
-description = " Ilmasto- ja muut ympäristökysymykset alkavat viimein nousta niiden ansaitsemaan asemaan yhteiskunnassa..."
-title = "Vihreä siirtymä "
-bref = ""
-toc = false
-+++
-
-
+hidastamaan sitä. [^2]
  Esimerkiksi EU:n uusin maatalouspolitiikkapaketti
 vesitettiin lobbarien painostuksesta ponnettomaksi ympäristötoimien
 kannalta, ja populistit ovat saaneet muut poliitikot takajaloilleen
@@ -69,16 +51,7 @@ Riittävän ylijäämäenergian myötä työelämämme on ollut mahdollista
 kehittyä nykyiseen muotoonsa, jossa ihmisillä on mahdollisuus syvään
 erikoistumiseen ja yhä suurempi osuus työstä on asiantuntijatyötä. Ilman
 runsasta ylijäämäenergiaa yhä useamman on palattava työhön, joka on
-kadonnut koneiden myötä. [^3]+++
-draft = false
-weight = 279
-description = " Ilmasto- ja muut ympäristökysymykset alkavat viimein nousta niiden ansaitsemaan asemaan yhteiskunnassa..."
-title = "Vihreä siirtymä "
-bref = ""
-toc = false
-+++
-
-
+kadonnut koneiden myötä. [^3]
 
 Koronakriisiä voidaan pitää EU:n 2020-luvun ympäristöpolitiikan
 ensimmäisenä happotestinä, joka koettelee ympäristöpolitiikan
@@ -89,15 +62,6 @@ tämänhetkisestä kriisistä selvitään sekä ympäristötoimista hetkellisest
 tinkimättä että keskipitkän aikavälin päästövähennystavoitteita
 kiristäen, voi ympäristöpolitiikan tulevaisuuteen EU:ssa suhtautua
 luottavaisin mielin.
-
-+++
-draft = false
-weight = 279
-description = " Ilmasto- ja muut ympäristökysymykset alkavat viimein nousta niiden ansaitsemaan asemaan yhteiskunnassa..."
-title = "Vihreä siirtymä "
-bref = ""
-toc = false
-+++
 
 
 
