@@ -1,0 +1,37 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+  <div id="main">
+    <div id="hero">
+      <h1> {{ .Title}} </h1>
+      <p class="hero-lead">
+           {{ .Params.bref | safeHTML }}.
+      </p>
+
+    </div> 
+    <div id="kube-component" class="content">
+    {{ partial "toc" .}}
+    
+    {{ .Content}}
+
+    <div class="previous-post">
+      {{ if .PrevPage }}
+      <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+      {{ end }}
+  </div>
+
+    <div class="next-post">
+        {{ if .NextPage }}
+        <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+        {{ end }}
+    </div>
+    
+    
+<!-- Inject script tag in this template  -->
+    {{if .Params.script}}
+     {{ $script := (delimit (slice "scripts" .Params.script) "/")}}
+    {{ partial (string $script) .}}
+    {{end }}
+    </div>
+    </div>
+{{ end }}
