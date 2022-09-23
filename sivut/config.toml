@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Vihreä työelämä 2020-luvulla"
+theme = "kube"
+description = "Foo bar"
+Paginate = 20
+[Params]
+  RSSLink = "/index.xml"
+  author = "Jori Mäkkeli, Janne Peltola, Juho Salmi ja Jussi-Pekka Teini" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "myemail@myaddress.xxx"
+
+[[menu.main]]
+    name = "Kirja"
+    weight = 1
+    url = "/kirja/"
+[[menu.main]]
+    name = "Kirjoittajat"
+    weight = 2
+    url = "/kirjoittajat/"
+[[menu.main]]
+    name = "UKK"
+    weight = 3
+    url = "/faq/"

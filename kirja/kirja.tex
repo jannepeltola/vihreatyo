@@ -14,6 +14,10 @@
 \setlength{\TPVertModule}{\TPHorizModule}
 \textblockorigin{25mm}{13mm}
 
+\newfontfamily{\spartan}{League Spartan Bold}
+\DeclareTextFontCommand{\textspartan}{\spartan}
+
+
 \newcommand{\textls}[2][5]{%
     \begingroup\addfontfeatures{LetterSpace=#1}#2\endgroup
   }
@@ -29,14 +33,14 @@
   {%
   \sffamily%
   \begin{fullwidth}%
-  \setstretch{0.8}\fontsize{18}{8}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\thanklessauthor}}%
-  \vspace{11.5pc}%
-  \fontsize{36}{40}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\thanklesstitle}}%
+  \setstretch{0.8}\fontsize{12}{8}\selectfont\par\noindent\textcolor{darkgray}{\allcaps{\thanklessauthor}}%
+  \vspace{8.5pc}%
+  \fontsize{40}{60}\spartan{\par\noindent\textcolor{darkgray}{\allcaps{\thanklesstitle}}}%
   \vfill%
   \fontsize{14}{16}\selectfont\par\noindent\allcaps{\thanklesspublisher}%
 
   \includegraphics[width=14cm]{cover.png}
-  \begin{textblock}{5}(0,13)
+  \begin{textblock}{6}(0,13)
     \small \textcolor{lightgray}{Kuva: DALL-E. "future of knowledge work by gallen kallela"}
   \end{textblock}
 
@@ -125,17 +129,19 @@ Mikään työmarkkinajärjestö tai poliittinen puolue ei tällä hetkellä yrit
 
 \begin{description}
     \item[Työelämän hierarkkisuus on aiheuttanut työpahoinvoinnin pandemian.] Hallinnan tunteen katoaminen on aiheuttanut mielenterveysongelmien ja työkyvyttömyyden syöksykierteen. Hierarkioiden madaltaminen ja laadukas johtaminen poistaisi mielenterveysongelmia.
-    \item[Työelämän laatu on tärkeämpää kuin pääoma.] Pääoma on yliarvostettua. Työ jalostaa pääoman uudeksi pääomaksi, joten työ on vähintään yhtä arvokasta kuin pääoma. Työtä pitää siis arvostaa yhtäläisesti, eli nykymuotoinen malli jossa pääoma tuottaa ikuiset osinkotulot mutta työ kertapalkan, pitää uudistaa.
-    \item[Työ on yliarvostettua.] Täystyöllisyyden ja ikuisen 37,5 tunnin työviikon tavoitteluun jumiutunut yhteiskunta johtaa yhä laajenevaan työelämän hevonpaskaistumiseen sekä haitalliseen tuotantoon ja kulutukseen. Samalla ihmisten odotetaan käyttävän yhä suuremman osan vapaa-ajastaan osaamisen päivittämiseen ja työkyvyn ylläpitoon. Asetelma on muuttunut aivan perverssiksi.
-    \item[Työelämä heikentää demokraattista yhteiskuntaa.] Nykyaikainen työelämä on harvainvallan päälle perustettu instituutio, joka rakentuu meritokratian illuusiolle. Nykyinen työelämä heikentää osallisuuden kokemusta ja opettaa, että päätökset yhteisistä asioista tekee joku muu. Montako epädemokraattista instituutiota aidosti demokraattinen yhteiskunta voi pitää sisällään?
-    \item[Työelämä heikentää ihmisoikeuksia.] Nykyaikainen työelämä ei tue ihmisoikeuksien toteutumista. Nyt ihmisoikeuksistaan ja vapauksistaan saa luopua työsopimuksella. Millä perusteella vapaata ihmistä saa alistaa ja määrätä työelämässä?
-    \item[Työelämä pilaa ilmaston ja luonnon.] Nykyaikaisen työelämän tehostuva toiminta tehostaa myös ympäristön rappeutumista. Niin kauan kuin kasvua ei saada irti kytkettyä ympäristöhaitasta, tehostuvan työelämän rakentama talouskasvu lisää ympäristön pahoinvointia. 
-    \item[Työelämä ratkaisee vääriä ongelmia.] On helppoa tehdä paljon rahaa ja luoda kovaa uraa optimoiden somemainonnan algoritmeja tai tehostamalla öljynporausta pilvilaskennalla. On vaikeaa luoda uraa, jossa pelastaa maailma. Työelämän täytyy kehittyä niin, että viheliäisten ongelmien ratkaiseminen on liiketoiminnallisesti houkuttelevaa.
-    \item[Työelämä tarvitsee intersektionaalista feminismiä.] Naisten ja vähemmistöjen osaamisen alihinnoittelu on räikeä todiste työmarkkinoiden epärationaalisuudesta. On aika jättää taakse tunne- ja ideologiaperustainen valkoista heteromiestä suosiva työelämä ja siirtyä rationaaliseen intersektionaaliseen feminismiin.
-    \item[Intersektionaalinen feminismi tuo parhaat tuotot riistokapitalistille.] Naiset ja vähemmistöjen palkkatoiveet ovat matalampia kuin valkoisilla heteroinsinöörimiehillä, joten olisi epärationaalista olla palkkaamatta heitä. Kun rekrytoi ja johtaa intersektionaalinen feminismi edellä, on helpompi löytää juuri sopivat henkilöt edullisesti. Moninaisuuden kylkiäisenä saa kyvykkäämmän organisaation, riistokapitalistin rahasammon.
-    \item[Työ on osa yhteiskuntaa ja siten osa politiikkaa.] Suomessa ollaan tuudittauduttu ajatukseen, että työelämän pelisäännöt ja kehittäminen voidaan jättää pelkästään työmarkkinajärjestöjen vastuulle. Työelämän laadulliset kysymykset on kuitenkin räikeästi laiminlyöty ja valtion täytyy tulla mukaan työelämän aktiiviseksi kehittäjäksi.
-    \item[Kohta perinteinen organisaatio lentää roskiin ja sinäkin työskentelet algoritmille.]  Perinteinen organisaatio on olemassa lähinnä työn järjestelemistä varten. Pian työn voi kuitenkin optimoida digitaalisen alustan algoritmi, eikä organisaatioita enää tarvita. Alustan APIn yläpuolella olevat insinöörit määräävät, mitä APIn alla olevat alamaiset tekevät.
-    \item[Maahanmuuttaja vaihtaa sinunkin vaippasi.] Pienenevät ikäluokat ja heikentyvä huoltosuhde luovat valtavan tarpeen työperäiselle maahanmuutolle. Saatavuusharkintaa ei tarvita, koska jokaisella alalla tulee olemaan työvoimapula. Jotta sinunkin vaippasi saadaan vielä joskus vaihdettua, pitää kaikki työperäisen maahanmuuton hidasteet poistaa heti.
+    \item[Työelämän laatu on tärkeämpää kuin pääoma.] Pääoma on yliarvostettua. Työ jalostaa pääoman uudeksi pääomaksi, joten työ on vähintään yhtä arvokasta kuin pääoma. Nykymuotoinen malli, jossa pääoma tuottaa ikuiset osinkotulot mutta työ kertapalkan, pitää uudistaa.
+    \item[Työ on yliarvostettua.] Ikuiseen 37,5 tunnin työviikkon ja täystyöllisyyden tavoitteluun jumiutunut yhteiskunta johtaa yhä laajenevaan työelämän hevonpaskaistumiseen sekä haitalliseen tuotantoon ja ylikulutukseen. Samalla ihmisten odotetaan käyttävän yhä suuremman osan vapaa-ajastaan osaamisen päivittämiseen ja työkyvyn ylläpitoon. Asetelma on muuttunut aivan perverssiksi.
+    \item[Työelämä heikentää demokraattista yhteiskuntaa.] Nykyaikainen työelämä on harvainvallan päälle rakennettu instituutio, joka perustuu meritokratian illuusiolle. Työelämä heikentää osallisuuden kokemusta ja opettaa, että päätökset yhteisistä asioista tekee joku muu. Montako epädemokraattista instituutiota aidosti demokraattinen yhteiskunta 
+    voi sisältää?
+    \item[Työelämä heikentää ihmisoikeuksia.] Nykyaikainen työelämä ei tue ihmisoikeuksien toteutumista. Nyt ihmisoikeuksistaan ja vapauksistaan saa luopua työsopimuksella. Saako tällä perusteella alistaa vapaata ihmistä ja määrätä muita kansalaisia työelämässä?
+    \item[Työelämä pilaa ilmaston ja luonnon.] Nykyaikaisen työelämän tehostuva toiminta tehostaa myös ympäristön rappeutumista. Niin kauan kuin kasvua ei saada irtikytkettyä ympäristöhaitoista, tehostuvan työelämän rakentama talouskasvu lisää ympäristön pahoinvointia. 
+    \item[Työelämä ratkaisee vääriä ongelmia.] Työuralla on helppoa tehdä paljon rahaa ja hankkia mainetta optimoiden somemainonnan algoritmeja tai tehostamalla öljynporausta pilvilaskennalla. On vaikeaa luoda uraa, jossa pelastaa maailma. Työelämän täytyy kehittyä niin, että viheliäisten ongelmien ratkaiseminen on yritysten ja urien kannalta houkuttelevaa.
+    \item[Työelämä tarvitsee intersektionaalista feminismiä.] Naisten ja vähemmistöjen osaamisen alihinnoittelu on räikeä todiste työmarkkinoiden epärationaalisuudesta. 
+    On aika jättää taakse tunne- ja ideologia-perustainen valkoista heteromiestä suosiva työelämä ja siirtyä rationaaliseen inter-sektionaaliseen feminismiin. Kun rekrytoi ja johtaa intersektionaalinen feminismi edellä, on helppo löytää juuri sopivat henkilöt edullisesti.
+    \item[Työ on osa yhteiskuntaa ja siten osa politiikkaa.] Suomessa on tuudittauduttu ajatukseen, että työelämän pelisäännöt ja kehittäminen voidaan jättää pelkästään työmarkkina-järjestöjen vastuulle. Työelämän laadulliset kysymykset on kuitenkin räikeästi laiminlyöty ja valtion täytyy tulla mukaan työelämän aktiiviseksi kehittäjäksi.
+    \item[Työskentelet kohta algoritmille.] Perinteinen työpaikkaorganisaatio on olemassa lähinnä työn järjestelemistä varten. Pian työn voi kuitenkin optimoida digitaalisen alustan algoritmi, eikä organisaatioita enää tarvita. Alustan rajapinnan yllä hallinnassa olevat insinöörit määräävät, mitä rajapinnan alla olevat tekevät.
+    \item[Työperäinen maahanmuuttaja vaihtaa sinunkin vaippasi.] Pienenevät ikäluokat ja heikentyvä huoltosuhde luovat valtavan tarpeen työperäiselle maahanmuutolle. Saatavuusharkintaa ei enää tarvita, koska jokaisella alalla tulee olemaan työvoimapula. Jotta sinunkin vaippasi saadaan vielä joskus vaihdettua, pitää kaikki työperäisen maahanmuuton hidasteet poistaa heti.
+    \item[Työ ei ole Vihreiden ydinosaamista.] Vihreillä ei ole asiallisesti järjestäytynyttä työmarkkinatoimintaa ja siihen liittyvät linjaukset on siirretty seuraavalle puoluevaltuustokaudelle. On aika miettiä mitä me oikeastaan työltä haluamme ja miten voimme luoda parasta mahdollista työelämää. 
 \end{description}
 
 \part{Mitä vihreän työmarkkinapolitiikan tulisi tavoitella?}
@@ -1302,11 +1308,11 @@ suhdelukua, jonka tulisi hyvinvointiyhteiskunnan ylläpitämiseksi olla
 luokkaa 15:1, siis saisimme keskimäärin 15 yksikköä energiaa yhtä
 energiapanosta kohden. Fossiilisilla polttoaineilla ERoEI on mittava,
 uusiutuvilla taas suhdeluku ei täyty ilman teknologian kehittymistä.
-\sidenote{Riittävän ylijäämäenergian myötä työelämämme on ollut mahdollista
+Riittävän ylijäämäenergian myötä työelämämme on ollut mahdollista
 kehittyä nykyiseen muotoonsa, jossa ihmisillä on mahdollisuus syvään
 erikoistumiseen ja yhä suurempi osuus työstä on asiantuntijatyötä. Ilman
 runsasta ylijäämäenergiaa yhä useamman on palattava työhön, joka on
-kadonnut koneiden myötä. ERoEI on siis keskeinen kysymys myös sen
+kadonnut koneiden myötä. \sidenote{ERoEI on siis keskeinen kysymys myös sen
 kannalta, millaiseksi tulevaisuuden työelämä muotoutuu.}
 
 Koronakriisiä voidaan pitää EU:n 2020-luvun ympäristöpolitiikan
