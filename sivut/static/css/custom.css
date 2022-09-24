@@ -25,3 +25,22 @@ body {
 .next-post {
     float: left;
 }
+
+#hero p:before {
+    position: absolute;
+    content: '';
+    width: 40px;
+    height: 3px;
+    top: 0;
+    left: 50%;
+    margin-left: -20px;
+    background: #1bc32c; }
+
+#action-buttons a.primary {
+    background-color: #1bc32c;
+}
+
+#action-buttons a.outline {
+    border: 2px solid #1bc32c;
+    color: #1bc32c;
+}
