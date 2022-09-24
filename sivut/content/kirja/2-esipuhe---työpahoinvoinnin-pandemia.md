@@ -11,8 +11,7 @@ toc = false
 
 Unohtakaa korona. Keskuudessamme vallitsee paljon laajempi, pirullisempi ja erikoisesti huomaamattomampi työpahoinvoinnin pandemia.
 
-Erityisesti naisvaltaisilla aloilla tilanne on muuttunut hälyttävästi: puolet naistyöntekijöistä kärsivät väsymyksen ja tarmottomuuden tunteista ja heillä on myös vaikeuksia nukkua. Syy on työolobarometrin perusteella selkeä: vaikka 80 prosentilla työntekijöistä on mahdollisuuksia vaikuttaa työhönsä, naisista puolilla ei ole aikaa käsitellä uusia ajatuksia[^1]
-. Kun otetaan huomioon miten työn merkityksellisyys ja mielekkyys muodostuvat suurelta osin juuri autonomian kautta, ei ole yllättävää että tästä seuraa voimattomuutta ja ahdistusta.
+Erityisesti naisvaltaisilla aloilla tilanne on muuttunut hälyttävästi: puolet naistyöntekijöistä kärsivät väsymyksen ja tarmottomuuden tunteista ja heillä on myös vaikeuksia nukkua. Syy on työolobarometrin perusteella selkeä: vaikka 80 prosentilla työntekijöistä on mielestään mahdollisuus vaikuttaa työhönsä, puolella heistä (erityisesti naisilla) ei ole käytännössä resursseja vaikuttaa työhönsä kiireen vuoksi[^1]. Kun otetaan huomioon miten työn merkityksellisyys ja mielekkyys muodostuvat suurelta osin juuri autonomian kautta, ei ole yllättävää että tästä seuraa voimattomuutta ja ahdistusta.
 
 Mielenterveysperustaiset työkyvyttömyyseläkkeet ohittivat vuonna 2020 tuki- ja liikuntaelinten sairauksista johtuvat. Jokainen työkyvyttömyyseläke on, paitsi inhimillinen tragedia, myös tolkuttoman kallista yhteiskunnalle. Kuten edellä todettiin, hallinnan menettäminen ja epävarmuus ovat monen mielenterveysongelman juurisyy. Kiire ja epävarmuus ovat olleet prekariaatille tuttuja jo pitkään, mutta näiden ilmiöiden hiipiessä myös palkansaajien piiriin[^2]
  olisi tarpeen alkaa katsoa peiliin ja miettiä, millaista työelämää haluamme rakentaa tulevaisuudessa ja millaisen työelämän jätämme tuleville sukupolville.
