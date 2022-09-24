@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Vihreä työelämä 2020-luvulla"
 theme = "kube"
-description = "Foo bar"
+description = "Mielestämme Vihreiden tulisi ottaa ryhtiliike työmarkkinapolitiikassa. Esitämme haasteita joista kukaan ei vielä puhu fiksusti. Me Vihreät voisimme."
 Paginate = 20
 [Params]
   RSSLink = "/index.xml"
@@ -23,3 +23,7 @@ Paginate = 20
     name = "UKK"
     weight = 3
     url = "/faq/"
+[[menu.main]]
+    name = "Keskusteluryhmä"
+    weight = 4
+    url = "https://chat.whatsapp.com/Jtdivjf9XsA3rs5lR1SJUx"
