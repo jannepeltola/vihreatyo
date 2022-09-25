@@ -4,6 +4,7 @@ title = "Vihreä työelämä 2020-luvulla"
 theme = "kube"
 description = "Mielestämme Vihreiden tulisi ottaa ryhtiliike työmarkkinapolitiikassa. Esitämme haasteita joista kukaan ei vielä puhu fiksusti. Me Vihreät voisimme."
 Paginate = 20
+pluralizelisttitles = "false"
 [Params]
   RSSLink = "/index.xml"
   author = "Jori Mäkkeli, Janne Peltola, Juho Salmi ja Jussi-Pekka Teini" # add your company name
