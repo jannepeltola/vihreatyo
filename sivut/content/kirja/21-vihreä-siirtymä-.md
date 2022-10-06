@@ -63,7 +63,6 @@ tinkimättä että keskipitkän aikavälin päästövähennystavoitteita
 kiristäen, voi ympäristöpolitiikan tulevaisuuteen EU:ssa suhtautua
 luottavaisin mielin.
 
-
-
-Työryhmä suosittelee asiasta kiinnostuneille ainakin seuraavaa jatkoluettavaa:
-
+[^1]: Vihreällä siirtymällä on voittopuolisesti niin kansan kuin poliittisen ja taloudellisen eliitin tuki.
+[^2]: Vastavoimat ovat onnistuneet hidastamaan siirtymää.
+[^3]: ERoEI on siis keskeinen kysymys myös sen kannalta, millaiseksi tulevaisuuden työelämä muotoutuu.

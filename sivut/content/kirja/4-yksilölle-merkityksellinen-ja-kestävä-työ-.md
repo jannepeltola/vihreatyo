@@ -52,15 +52,14 @@ joka tukee näitä kolmea perustarvetta, on mahdollista korjata ja
 ehkäistä pahoinvointia sekä lisätä työelämän tuottamaa henkistä
 hyvinvointia yksilölle.
 
-[^4]
- kokemuksen tukeminen työpaikoilla tarkoittaa
+**Omaehtoisuuden** [^4] kokemuksen tukeminen työpaikoilla tarkoittaa
 yksilön kykyä vaikuttaa siihen, mitä työtä tehdään, miten sitä tehdään
 ja miksi työtä tehdään. Kyky vaikuttaa ei tarkoita sitä, että jokainen
 saisi päättää nämä kaikki osa-alueet itsenäisesti, vaan tärkeintä on
 aito vaikuttamisen mahdollisuus. Päätöksiä voidaan tehdä yhdessä tai
 hierarkkisesti, mutta joka tapauksessa jollakin tavalla osallistavasti
 tai yhteisesti. 
-kokemuksen tukeminen työpaikoilla
+**Kyvykkyyden** kokemuksen tukeminen työpaikoilla
 tarkoittaa työnkuvien ja tehtävien muokkaamista siihen suuntaan, että
 niistä on mahdollista selviytyä nykyisellä osaamisella tai osaamista
 kehittämällä. Tämä ei tarkoita, että työn haastavuutta tai tavoitteita
@@ -68,8 +67,7 @@ ei saisi nostaa. On kuitenkin huolehdittava siitä, että työntekijöillä
 on mahdollisuus toimia osaamisensa rajojen sisällä tai aivan niiden
 läheisyydessä flow-tilan mahdollistamiseksi ja oppimisen tukemiseksi.
 Kaiken työn ei kuitenkaan tarvitse olla (tai saakaan olla) jatkuvasti
-haastavaa. 
-kokemuksen tukeminen työpaikoilla
+haastavaa. **Yhteenkuuluvuuden** kokemuksen tukeminen työpaikoilla
 tarkoittaa mahdollisuutta muodostaa lähipiiri ja jonkinlainen tiivis
 työyhteisö, johon ihminen kokee kuuluvansa. Työyhteisön ei kuitenkaan
 tarvitse kilpailla ihmisten muiden lähiyhteisöjen kanssa. Täytyy olla

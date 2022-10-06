@@ -42,8 +42,7 @@ työpaikkoja kun työpaikkojen kadotessa keksitään uusia.[^3]
 Maynard Keynes arvioi vuonna 1930, että hänen lapsenlapsensa tekisivät
 15-tuntista työviikkoa, kun teknologia automatisoisi työtä. Keynes oli
 väärässä, ja antropologi David Graeber selittää tämän matalan
-tuottavuuden sontatyöllä (
-), joka syntyy tilaan josta
+tuottavuuden sontatyöllä (*bullshit job*), joka syntyy tilaan josta
 vanha työ katoaa.
 
 Sontatyö on sosiaalinen välttämättömyys yhteisössä, jossa yksilön arvo
