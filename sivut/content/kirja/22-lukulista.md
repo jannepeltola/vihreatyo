@@ -26,4 +26,4 @@ Työryhmä suosittelee asiasta kiinnostuneille ainakin seuraavaa jatkoluettavaa:
 - Simil (2018). **Energy and Civilization**. Kanoninen johdatusteksti EROEI-ajatteluun.
 - Soininvaara (2021). **2020-luvun yhteiskuntapolitiikka**. Odella on uniikki yhteiskunnallinen näkemys, jota arvostamme.
 - Suzman (2021). **Work: A History of How We Spend Our Time**. Silmät avaavaa työn sosiologiaa.
-\end{itemize**
+

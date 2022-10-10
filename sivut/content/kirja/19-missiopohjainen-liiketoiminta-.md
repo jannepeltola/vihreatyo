@@ -66,11 +66,9 @@ yritykselle ovat:
 
 1. Yrityksen tarkoitus on ratkaista yhteiskunnallisia tai
 ympäristöongelmia
-\\
 
 2. Suurin osa voitosta käytetään yhteiskunnallisen tavoitteen
 edistämiseen
-\\
 
 3. Liiketoiminnan avoimuus ja läpinäkyvyys
 

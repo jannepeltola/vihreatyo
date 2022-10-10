@@ -34,8 +34,7 @@ vastaavista teksteistä saa lukea - nuoret tuovat aina mukanaan uusia
 kulttuurisia vaatimuksia.[^1]
 
 Työpaikkojen ikäjakauma ja kokemustaso muuttuvat. Käytetään esimerkkinä
-yliopistoja. Vuonna 2009 48 
-\%
+yliopistoja. Vuonna 2009 48 %
  professoreista oli yli 55-vuotiaita.
 Keskimääräinen professorin eläköitymisikä on 67 vuotta, eli lähivuosina
 vapautuu aika monta professuuria - sikäli kuin ne säilytetään. Suuret

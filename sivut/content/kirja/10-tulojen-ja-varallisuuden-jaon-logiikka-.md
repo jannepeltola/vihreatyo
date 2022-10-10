@@ -10,7 +10,7 @@ toc = false
 
 
 Vasemmistolainen talouskeskustelu sai uutta virtaa Pikettyn 
--raamatun julkaisusta. Havainto, että pääoma tuottaa
+*Pääoma 2000-luvulla* -raamatun julkaisusta. Havainto, että pääoma tuottaa
 pitkällä aikavälillä työtä enemmän oli ansiokkaasti tilastoaineistolla
 perusteltu ja johtopäätös varallisuuden kasautumisesta on todellinen
 uhka. Pikettyä lukiessa on luonnollisesti pidettävä mielessä esimerkiksi
