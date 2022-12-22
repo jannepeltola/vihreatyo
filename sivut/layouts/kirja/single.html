@@ -7,21 +7,27 @@
 
     </div> 
     <div id="kube-component" class="content">
-    {{ partial "toc" .}}
-    
-    {{ .Content}}
+      {{ partial "toc" .}}
+      
+      {{ .Content}}
 
+    </div>
+
+  <div class="post-links">
     <div class="previous-post">
       {{ if .PrevPage }}
       <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
       {{ end }}
-  </div>
+    </div>
 
     <div class="next-post">
         {{ if .NextPage }}
         <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
         {{ end }}
     </div>
+  </div>
+
+
     
     
 <!-- Inject script tag in this template  -->
@@ -29,6 +35,5 @@
      {{ $script := (delimit (slice "scripts" .Params.script) "/")}}
     {{ partial (string $script) .}}
     {{end }}
-    </div>
     </div>
 {{ end }}

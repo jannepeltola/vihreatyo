@@ -3,8 +3,9 @@
     src: url("/font/Figtree-Regular.woff2");
   }
 
-body {
+html, body {
     font-family: "Figtree Regular";
+    margin: 0;
 }
 
 .caption {
@@ -20,7 +21,6 @@ body {
 
 .previous-post {
     float: right;
-    margin-bottom: 3em;
 }
 .next-post {
     float: left;
@@ -36,3 +36,19 @@ body {
     margin-left: -20px;
     background: #1bc32c;
 }
+
+div.content {
+    padding-bottom: 2rem;
+}
+
+div.post-links {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    height: 2rem;
+    width: 100%;
+    margin-top: -50px;
+    padding-left: 20%;
+    padding-right: 20%;
+} 
