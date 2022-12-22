@@ -19,12 +19,12 @@ kertoessaan.
 Yksi keskeisistä ajattelutavan muutoksista tällaisissa
 yrityksissä on yksiulotteisen voitontavoittelun tasapainottaminen
 sosiaalisilla ja ympäristötavoitteilla. Onkin alettu puhua yleistäen
-``missio-pohjaisesta''liiketoiminnasta tai nk. ``triple bottom
-line''yrityksistä. Niiden keskeinen tavoite ei ole ainoastaan tuottaa
+"missiopohjaisesta" liiketoiminnasta tai nk. "triple bottom
+line"-yrityksistä. Niiden keskeinen tavoite ei ole ainoastaan tuottaa
 omistajilleen voittoa vaan ne ottavat sosiaaliset ja ympäristövastuut
 kiinteäksi osaksi omaa toimintansa tarkoitusta.[^1]
- Myös EU komissio on
-alkanut edistämään missiopohjaisen liiketoiminnan synnyttämistä EUn
+
+Myös EU-komissio on alkanut edistää missiopohjaisen liiketoiminnan synnyttämistä EU:n
 alueelle.
 
 Tämä positiivinen muutosvoima ei kuitenkaan pääse tällä hetkellä
